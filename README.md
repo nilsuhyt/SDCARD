@@ -17,6 +17,7 @@
 > [!TIP]
 > Choose sd card and sets MAX_SS and MIN_SS  as given up
 And next page enabled “use dma template” at Advanced Setting.
+> 
 > ![image](https://github.com/nilsuhyt/SDCARD/assets/158216829/7f5b085d-cd2b-46d7-acfa-e54cbacc7f97)
 > 
 > ![image](https://github.com/nilsuhyt/SDCARD/assets/158216829/e8ef2024-f151-4bc7-afbc-a45cf55fc249)
